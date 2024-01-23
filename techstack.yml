@@ -1,0 +1,125 @@
+repo_name: ramzimalhas/baby-agi
+report_id: 9482ee2fc39aa107118569aafc9883df
+version: 0.1
+repo_type: Public
+timestamp: '2024-01-23T06:59:28+00:00'
+requested_by: that-one-arab
+provider: github
+branch: main
+detected_tools_count: 9
+tools:
+- name: Python
+  description: A clear and powerful object-oriented programming language, comparable
+    to Perl, Ruby, Scheme, or Java.
+  website_url: https://www.python.org
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/ramzimalhas/baby-agi
+  detection_source: Repo Metadata
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/ramzimalhas/baby-agi
+  detection_source: Repo Metadata
+- name: PyPI
+  description: A repository of software for the Python programming language
+  website_url: https://pypi.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Hosted Package Repository
+  image_url: https://img.stackshare.io/service/12572/-RIWgodF_400x400.jpg
+  detection_source_url: https://github.com/ramzimalhas/baby-agi/blob/main/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: Jason Banich
+  last_updated_on: 2023-04-03 14:24:01.000000000 Z
+- name: OpenAI
+  description: Creating safe AGI that benefits all
+  website_url: https://openai.com/
+  version: 0.27.4
+  open_source: false
+  hosted_saas: false
+  category: Communications
+  sub_category: Large Language Models
+  image_url: https://img.stackshare.io/service/48786/default_8b1119bcbb159cebebc2f6cfc9cd2e359b169d22.jpg
+  detection_source_url: https://github.com/ramzimalhas/baby-agi/blob/main/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: Jason Banich
+  last_updated_on: 2023-04-03 14:24:01.000000000 Z
+- name: Pinecone
+  description: Build high-performance vector search applications
+  website_url: https://www.pinecone.io/
+  version: 2.2.1
+  open_source: false
+  hosted_saas: false
+  category: Application Utilities
+  sub_category: Search as a Service
+  image_url: https://img.stackshare.io/service/48784/default_376332a8eee1cdbb0546ca1aaed0b8a7f4d673d7.png
+  detection_source_url: https://github.com/ramzimalhas/baby-agi/blob/main/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: Jason Banich
+  last_updated_on: 2023-04-03 14:24:01.000000000 Z
+- name: argparse
+  description: Python command-line parsing library
+  package_url: https://pypi.org/project/argparse
+  version: 1.4.0
+  license: Python-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19871/default_d05f6f09935776629f62e8aed365805502c14921.png
+  detection_source_url: https://github.com/ramzimalhas/baby-agi/blob/main/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: Bujie Xu
+  last_updated_on: 2023-04-08 07:15:20.000000000 Z
+- name: openai
+  description: The official Python library for the openai API
+  package_url: https://pypi.org/project/openai
+  version: 0.27.4
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pypi/image.png
+  detection_source_url: https://github.com/ramzimalhas/baby-agi/blob/main/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: madan ankapura
+  last_updated_on: 2023-04-08 01:48:27.000000000 Z
+- name: pre-commit
+  description: A framework for managing and maintaining multi-language pre-commit
+    hooks
+  package_url: https://pypi.org/project/pre-commit
+  version: 3.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20560/default_d975dcf643a054134f39226d51d4a5fea9320efe.png
+  detection_source_url: https://github.com/ramzimalhas/baby-agi/blob/main/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: Bujie Xu
+  last_updated_on: 2023-04-07 04:00:08.000000000 Z
+- name: python-dotenv
+  description: Add .env support to your django/flask apps in development and deployments
+  package_url: https://pypi.org/project/python-dotenv
+  version: 1.0.0
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20095/default_3141eabecdd8efa55de73a33c43f2ac0d5bbf954.png
+  detection_source_url: https://github.com/ramzimalhas/baby-agi/blob/main/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: Bujie Xu
+  last_updated_on: 2023-04-07 04:00:08.000000000 Z
