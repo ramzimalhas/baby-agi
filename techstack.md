@@ -4,8 +4,8 @@
 ramzimalhas/baby-agi is built on the following main stack:
 
 - [Python](https://www.python.org) – Languages
-- [Pinecone](https://www.pinecone.io/) – Search as a Service
 - [OpenAI](https://openai.com/) – Large Language Models
+- [Pinecone](https://www.pinecone.io/) – Search as a Service
 
 Full tech stack [here](/techstack.md)
 
@@ -16,8 +16,8 @@ Full tech stack [here](/techstack.md)
 ramzimalhas/baby-agi is built on the following main stack:
 
 - <img width='25' height='25' src='https://img.stackshare.io/service/993/pUBY5pVj.png' alt='Python'/> [Python](https://www.python.org) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/48784/default_376332a8eee1cdbb0546ca1aaed0b8a7f4d673d7.png' alt='Pinecone'/> [Pinecone](https://www.pinecone.io/) – Search as a Service
 - <img width='25' height='25' src='https://img.stackshare.io/service/48786/default_8b1119bcbb159cebebc2f6cfc9cd2e359b169d22.jpg' alt='OpenAI'/> [OpenAI](https://openai.com/) – Large Language Models
+- <img width='25' height='25' src='https://img.stackshare.io/service/48784/default_376332a8eee1cdbb0546ca1aaed0b8a7f4d673d7.png' alt='Pinecone'/> [Pinecone](https://www.pinecone.io/) – Search as a Service
 
 Full tech stack [here](/techstack.md)
 
@@ -28,7 +28,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [ramzimalhas/baby-agi](https://github.com/ramzimalhas/baby-agi)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|9<br/>Tools used|01/23/24 <br/>Report generated|
+|9<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
